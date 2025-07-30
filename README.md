@@ -15,9 +15,9 @@
 - 2º semestre de **Defesa Cibernética** - Impacta
 - Curso de **Inglês** - Cultura Inglesa
 
-  🔐 Interesses: Segurança de redes, automações com IA, criação de conteúdo, marketing digital e computação em nuvem.
+### 🔐 Interesses: Segurança de redes, automações com IA, criação de conteúdo, marketing digital e computação em nuvem.
 
-  🧠 Conhecimentos:
+### 🧠 Conhecimentos:
 - Redes de computadores (LAN/WAN)
 - Cloud: AWS e Microsoft Azure
 - Segurança cibernética (Cisco Skills for All)
