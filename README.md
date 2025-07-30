@@ -15,7 +15,8 @@
 - 2º semestre de **Defesa Cibernética** - Impacta
 - Curso de **Inglês** - Cultura Inglesa
 
-### 🔐 Interesses: Segurança de redes, automações com IA, criação de conteúdo, marketing digital e computação em nuvem.
+### 🔐 Interesses: 
+Segurança de redes, automações com IA, criação de conteúdo, marketing digital e computação em nuvem.
 
 ### 🧠 Conhecimentos:
 - Redes de computadores (LAN/WAN)
