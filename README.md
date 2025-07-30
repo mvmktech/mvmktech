@@ -47,7 +47,6 @@ Segurança de redes, automações com IA, criação de conteúdo, marketing digi
 ### 📫 Contato
 
 - LinkedIn: [linkedin.com/in/mvmktech](https://www.linkedin.com/in/mvmktech/)
-- GitHub: [github.com/mvmktech](https://github.com/mvmktech)
 - Certificados: [Credly](https://www.credly.com/users/marcos-vinicius-vera-cruz/badges)
 
 ---
