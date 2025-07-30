@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Marcos Vinícius Vera Cruz</h1>
 
-<!--
-**mvmktech/mvmktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 Estudante de Marketing Digital, Defesa Cibernética e Inglês <br>
+  🚀 Apaixonado por tecnologia, segurança da informação e IA <br>
+  💻 Criador de conteúdo e desenvolvedor em formação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Sobre mim
+
+- 🎓 Atualmente cursando:
+  - 1º semestre de **Marketing Digital** - São Judas
+  - 2º semestre de **Defesa Cibernética** - Impacta
+  - Curso de **Inglês** - Cultura Inglesa
+
+- 🔐 Interesses: Segurança de redes, automações com IA, criação de conteúdo, marketing digital e computação em nuvem.
+
+- 🧠 Conhecimentos:
+  - Redes de computadores (LAN/WAN)
+  - Cloud: AWS e Microsoft Azure
+  - Segurança cibernética (Cisco Skills for All)
+  - Criação de conteúdo + Copywriting
+  - Ferramentas: GitHub, Canva IA, Veo3, ElevenLabs, CapCut, Filmora
+
+---
+
+### 🧰 Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,aws,azure,vscode,figma,canva,python" />
+</div>
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mvmktech&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mvmktech&theme=radical" />
+</p>
+
+---
+
+### 📫 Contato
+
+- LinkedIn: [linkedin.com/in/mvmktech](https://www.linkedin.com/in/mvmktech/)
+- GitHub: [github.com/mvmktech](https://github.com/mvmktech)
+- Certificados: [Credly](https://www.credly.com/users/marcos-vinicius-vera-cruz/badges)
+
+---
+
+<p align="center">
+  <b>"Conectando o futuro digital com criatividade e propósito."</b> ⚡
+</p>
