@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Marcos Vinícius Vera Cruz</h1>
 
 <p align="center">
-  🌱 Estudante de Marketing Digital, Defesa Cibernética e Inglês <br>
+  📚 Estudante de Marketing Digital, Defesa Cibernética e Inglês <br>
   🚀 Apaixonado por tecnologia, segurança da informação e IA <br>
   💻 Criador de conteúdo e desenvolvedor em formação
 </p>
@@ -29,7 +29,7 @@
 ### 🧰 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,aws,azure,vscode,figma,canva,python" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,github,aws,azure,vscode,figma,canva,capcut" />
 </div>
 
 ---
